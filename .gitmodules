@@ -1,0 +1,3 @@
+[submodule "services/be/core/auth/hsm-be-core-auth"]
+	path = services/be/core/auth/hsm-be-core-auth
+	url = https://github.com/HSM-SANOSOFT/hsm-be-core-auth.git
